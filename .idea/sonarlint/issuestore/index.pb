@@ -1,8 +1,6 @@
 
 >
 yarn-error.log,f/3/f3b7336f891b6569b2fd4a67fd391439c7eb76e3
-A
-package-lock.json,f/a/fa288d1472d29beccb489a676f68739ad365fc47
 ?
 src/App.test.js,9/2/923703ced91ac38943d37930d9d27a7ebe8f01ad
 ;
